@@ -1,0 +1,6 @@
+{
+  "name": "שולחן ערוך המקוצר - הלכה יומית",
+  "description": "אפליקציית הלכה יומית לפי שולחן ערוך המקוצר ועיני יצחק למרן הגאון רבי יצחק רצאבי שליט\"א, עם זיהוי תאריך עברי, שעת היום וזמני היום.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
